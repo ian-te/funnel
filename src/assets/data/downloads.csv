@@ -1,0 +1,163 @@
+date,product,country,os,count
+15.04,ReSharper,United States,Windows,59500
+15.04,ReSharper,United States,Linux,86450.8
+15.04,ReSharper,United States,Mac OS,53069.4
+15.05,ReSharper,United States,Windows,53410
+15.05,ReSharper,United States,Linux,96134
+15.05,ReSharper,United States,Mac OS,52405.8
+15.06,ReSharper,United States,Windows,53735
+15.06,ReSharper,United States,Linux,81348.8
+15.06,ReSharper,United States,Mac OS,52159.8
+15.07,ReSharper,United States,Windows,51473.5
+15.07,ReSharper,United States,Linux,91228
+15.07,ReSharper,United States,Mac OS,46542
+15.08,ReSharper,United States,Windows,54140
+15.08,ReSharper,United States,Linux,87464.8
+15.08,ReSharper,United States,Mac OS,46111.2
+15.09,ReSharper,United States,Windows,56690.5
+15.09,ReSharper,United States,Linux,89268.8
+15.09,ReSharper,United States,Mac OS,43422
+15.04,ReSharper,Netherland,Windows,43581.5
+15.04,ReSharper,Netherland,Linux,70037.2
+15.04,ReSharper,Netherland,Mac OS,43095.6
+15.05,ReSharper,Netherland,Windows,47294
+15.05,ReSharper,Netherland,Linux,73591.2
+15.05,ReSharper,Netherland,Mac OS,38486.4
+15.06,ReSharper,Netherland,Windows,45885
+15.06,ReSharper,Netherland,Linux,70440.8
+15.06,ReSharper,Netherland,Mac OS,42352.8
+15.07,ReSharper,Netherland,Windows,46623.5
+15.07,ReSharper,Netherland,Linux,66905.6
+15.07,ReSharper,Netherland,Mac OS,34482.6
+15.08,ReSharper,Netherland,Windows,41535.5
+15.08,ReSharper,Netherland,Linux,69067.2
+15.08,ReSharper,Netherland,Mac OS,41423.4
+15.09,ReSharper,Netherland,Windows,40753.5
+15.09,ReSharper,Netherland,Linux,71380.4
+15.09,ReSharper,Netherland,Mac OS,34463.4
+15.04,ReSharper,China,Windows,126008
+15.04,ReSharper,China,Linux,192503.4
+15.04,ReSharper,China,Mac OS,106224.8
+15.05,ReSharper,China,Windows,126901.6
+15.05,ReSharper,China,Linux,205033.8
+15.05,ReSharper,China,Mac OS,95369.6
+15.06,ReSharper,China,Windows,128379.2
+15.06,ReSharper,China,Linux,191014.8
+15.06,ReSharper,China,Mac OS,99778.4
+15.07,ReSharper,China,Windows,130605.6
+15.07,ReSharper,China,Linux,207182.4
+15.07,ReSharper,China,Mac OS,90301.6
+15.08,ReSharper,China,Windows,123386.4
+15.08,ReSharper,China,Linux,209158.2
+15.08,ReSharper,China,Mac OS,100472.8
+15.09,ReSharper,China,Windows,139753.6
+15.09,ReSharper,China,Linux,198352.8
+15.09,ReSharper,China,Mac OS,94850.4
+15.04,Idea,United States,Windows,54818.5
+15.04,Idea,United States,Linux,87015.2
+15.04,Idea,United States,Mac OS,50988
+15.05,Idea,United States,Windows,54994.5
+15.05,Idea,United States,Linux,88918.8
+15.05,Idea,United States,Mac OS,43041.6
+15.06,Idea,United States,Windows,56812
+15.06,Idea,United States,Linux,82595.2
+15.06,Idea,United States,Mac OS,47503.8
+15.07,Idea,United States,Windows,55632
+15.07,Idea,United States,Linux,96016.4
+15.07,Idea,United States,Mac OS,52422.6
+15.08,Idea,United States,Windows,50004
+15.08,Idea,United States,Linux,92819.2
+15.08,Idea,United States,Mac OS,47857.8
+15.09,Idea,United States,Windows,54006.5
+15.09,Idea,United States,Linux,81903.6
+15.09,Idea,United States,Mac OS,42849.6
+15.04,Idea,Netherland,Windows,42986.5
+15.04,Idea,Netherland,Linux,67443.2
+15.04,Idea,Netherland,Mac OS,36318
+15.05,Idea,Netherland,Windows,45630.5
+15.05,Idea,Netherland,Linux,70586.8
+15.05,Idea,Netherland,Mac OS,34318.2
+15.06,Idea,Netherland,Windows,44721.5
+15.06,Idea,Netherland,Linux,70743.2
+15.06,Idea,Netherland,Mac OS,41685
+15.07,Idea,Netherland,Windows,40444.5
+15.07,Idea,Netherland,Linux,74528.8
+15.07,Idea,Netherland,Mac OS,41047.8
+15.08,Idea,Netherland,Windows,40533
+15.08,Idea,Netherland,Linux,74668.8
+15.08,Idea,Netherland,Mac OS,40288.8
+15.09,Idea,Netherland,Windows,44007.5
+15.09,Idea,Netherland,Linux,64666.8
+15.09,Idea,Netherland,Mac OS,35659.8
+15.04,Idea,China,Windows,131636.8
+15.04,Idea,China,Linux,223005.6
+15.04,Idea,China,Mac OS,95660.8
+15.05,Idea,China,Windows,142384
+15.05,Idea,China,Linux,211409.4
+15.05,Idea,China,Mac OS,88469.6
+15.06,Idea,China,Windows,134868
+15.06,Idea,China,Linux,182085.6
+15.06,Idea,China,Mac OS,86992.8
+15.07,Idea,China,Windows,122623.2
+15.07,Idea,China,Linux,220277.4
+15.07,Idea,China,Mac OS,96048.8
+15.08,Idea,China,Windows,120112
+15.08,Idea,China,Linux,189721.8
+15.08,Idea,China,Mac OS,105503.2
+15.09,Idea,China,Windows,137167.2
+15.09,Idea,China,Linux,189991.8
+15.09,Idea,China,Mac OS,99462.4
+15.04,PhpStorm,United States,Windows,76520.5
+15.04,PhpStorm,United States,Linux,45425.4
+15.04,PhpStorm,United States,Mac OS,63934.2
+15.05,PhpStorm,United States,Windows,74781
+15.05,PhpStorm,United States,Linux,49806.4
+15.05,PhpStorm,United States,Mac OS,67673.7
+15.06,PhpStorm,United States,Windows,81119.5
+15.06,PhpStorm,United States,Linux,40299.2
+15.06,PhpStorm,United States,Mac OS,72010.8
+15.07,PhpStorm,United States,Windows,78178.8
+15.07,PhpStorm,United States,Linux,47580.2
+15.07,PhpStorm,United States,Mac OS,77136.3
+15.08,PhpStorm,United States,Windows,73455.9
+15.08,PhpStorm,United States,Linux,40767.4
+15.08,PhpStorm,United States,Mac OS,70060.5
+15.09,PhpStorm,United States,Windows,79394.7
+15.09,PhpStorm,United States,Linux,49579.2
+15.09,PhpStorm,United States,Mac OS,67195.8
+15.04,PhpStorm,Netherland,Windows,65066.4
+15.04,PhpStorm,Netherland,Linux,35011
+15.04,PhpStorm,Netherland,Mac OS,58343.4
+15.05,PhpStorm,Netherland,Windows,58522.1
+15.05,PhpStorm,Netherland,Linux,36417.6
+15.05,PhpStorm,Netherland,Mac OS,52233.3
+15.06,PhpStorm,Netherland,Windows,58587.9
+15.06,PhpStorm,Netherland,Linux,34973
+15.06,PhpStorm,Netherland,Mac OS,63984.6
+15.07,PhpStorm,Netherland,Windows,59648.4
+15.07,PhpStorm,Netherland,Linux,39121.6
+15.07,PhpStorm,Netherland,Mac OS,62415.9
+15.08,PhpStorm,Netherland,Windows,58077.6
+15.08,PhpStorm,Netherland,Linux,39280.4
+15.08,PhpStorm,Netherland,Mac OS,56738.7
+15.09,PhpStorm,Netherland,Windows,59124.1
+15.09,PhpStorm,Netherland,Linux,33141
+15.09,PhpStorm,Netherland,Mac OS,51095.7
+15.04,PhpStorm,China,Windows,105352.1
+15.04,PhpStorm,China,Linux,70486.2
+15.04,PhpStorm,China,Mac OS,116725.5
+15.05,PhpStorm,China,Windows,122833.2
+15.05,PhpStorm,China,Linux,66286.4
+15.05,PhpStorm,China,Mac OS,107997.3
+15.06,PhpStorm,China,Windows,111995.1
+15.06,PhpStorm,China,Linux,73861
+15.06,PhpStorm,China,Mac OS,120744.9
+15.07,PhpStorm,China,Windows,116475.8
+15.07,PhpStorm,China,Linux,70848
+15.07,PhpStorm,China,Mac OS,106104.6
+15.08,PhpStorm,China,Windows,105068.6
+15.08,PhpStorm,China,Linux,62099.6
+15.08,PhpStorm,China,Mac OS,107023.5
+15.09,PhpStorm,China,Windows,120232.7
+15.09,PhpStorm,China,Linux,60677.4
+15.09,PhpStorm,China,Mac OS,101833.2
