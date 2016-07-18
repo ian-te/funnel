@@ -9,39 +9,46 @@
   function MainController(d3, $timeout) {
     var vm = this;
     vm.awesomeThings = 'TEST';
-
-    d3.csv("/assets/data/downloads.csv",function(d) {
+    vm.funnelData = [];
+    var result = [];
+    d3.csv("/assets/data/visits.csv",function(d) {
       var tmp = d.date.split('.');
       var date = '2016-' + tmp[1] + '-' + tmp [0];
-
-
-      return {
-        date : new Date(date),
-        product: d.product,
-        country: d.country,
-        os: d.os,
-        count: +d.count
-      };
+      d.date = new Date(date);
+      d.action = 'visit';
+      return d;
     }, function(data) {
-      var sum = d3.sum(data, function(d) { return d.count; });
+      result = result.concat(data);
+      d3.csv("/assets/data/downloads.csv",function(d) {
+        var tmp = d.date.split('.');
+        var date = '2016-' + tmp[1] + '-' + tmp [0];
+        d.date = new Date(date);
+        d.action = 'download';
+        return d;
+      }, function(data) {
+        result = result.concat(data);
+          d3.csv("/assets/data/purchases.csv",function(d) {
+            var tmp = d.date.split('.');
+            var date = '2016-' + tmp[1] + '-' + tmp [0];
+            d.date = new Date(date);
+            d.action = 'purchase';
+            return d;
+          }, function(data) {
+            result = result.concat(data);
+            result = result.filter(function(d) { return d.country == 'United States' });
+            var grouped = d3.nest()
+                .key(function(d) { return d.action;})
+                .rollup(function(d) {
+                  return d3.sum(d, function(g) {return g.count; });
+                }).entries(result)
+            console.log(keys)
 
-      d3.select("#countries").selectAll("option")
-          .data(d3.map(data, function(d){return d.country;}).keys())
-          .enter()
-          .append("option")
-          .text(function(d){return d;})
-          .attr("value",function(d){return d;});
+            $timeout(function(){
+              vm.funnelData = result;
+              vm.grouped = grouped;
+            });
 
-      d3.select("#products").selectAll("option")
-          .data(d3.map(data, function(d){return d.product;}).keys())
-          .enter()
-          .append("option")
-          .text(function(d){return d;})
-          .attr("value",function(d){return d;});
-
-      $timeout(function(){
-        vm.downloads = data;
-        vm.sum = sum;
+          });
       });
     });
 

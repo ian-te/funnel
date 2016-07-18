@@ -1,163 +1,163 @@
 date,product,country,os,count
-15.04,ReSharper,United States,Windows,59500
-15.04,ReSharper,United States,Linux,86450.8
-15.04,ReSharper,United States,Mac OS,53069.4
-15.05,ReSharper,United States,Windows,53410
-15.05,ReSharper,United States,Linux,96134
-15.05,ReSharper,United States,Mac OS,52405.8
-15.06,ReSharper,United States,Windows,53735
-15.06,ReSharper,United States,Linux,81348.8
-15.06,ReSharper,United States,Mac OS,52159.8
-15.07,ReSharper,United States,Windows,51473.5
-15.07,ReSharper,United States,Linux,91228
-15.07,ReSharper,United States,Mac OS,46542
-15.08,ReSharper,United States,Windows,54140
-15.08,ReSharper,United States,Linux,87464.8
-15.08,ReSharper,United States,Mac OS,46111.2
-15.09,ReSharper,United States,Windows,56690.5
-15.09,ReSharper,United States,Linux,89268.8
-15.09,ReSharper,United States,Mac OS,43422
-15.04,ReSharper,Netherland,Windows,43581.5
-15.04,ReSharper,Netherland,Linux,70037.2
-15.04,ReSharper,Netherland,Mac OS,43095.6
-15.05,ReSharper,Netherland,Windows,47294
-15.05,ReSharper,Netherland,Linux,73591.2
-15.05,ReSharper,Netherland,Mac OS,38486.4
-15.06,ReSharper,Netherland,Windows,45885
-15.06,ReSharper,Netherland,Linux,70440.8
-15.06,ReSharper,Netherland,Mac OS,42352.8
-15.07,ReSharper,Netherland,Windows,46623.5
-15.07,ReSharper,Netherland,Linux,66905.6
-15.07,ReSharper,Netherland,Mac OS,34482.6
-15.08,ReSharper,Netherland,Windows,41535.5
-15.08,ReSharper,Netherland,Linux,69067.2
-15.08,ReSharper,Netherland,Mac OS,41423.4
-15.09,ReSharper,Netherland,Windows,40753.5
-15.09,ReSharper,Netherland,Linux,71380.4
-15.09,ReSharper,Netherland,Mac OS,34463.4
-15.04,ReSharper,China,Windows,126008
-15.04,ReSharper,China,Linux,192503.4
-15.04,ReSharper,China,Mac OS,106224.8
-15.05,ReSharper,China,Windows,126901.6
-15.05,ReSharper,China,Linux,205033.8
-15.05,ReSharper,China,Mac OS,95369.6
-15.06,ReSharper,China,Windows,128379.2
-15.06,ReSharper,China,Linux,191014.8
-15.06,ReSharper,China,Mac OS,99778.4
-15.07,ReSharper,China,Windows,130605.6
-15.07,ReSharper,China,Linux,207182.4
-15.07,ReSharper,China,Mac OS,90301.6
-15.08,ReSharper,China,Windows,123386.4
-15.08,ReSharper,China,Linux,209158.2
-15.08,ReSharper,China,Mac OS,100472.8
-15.09,ReSharper,China,Windows,139753.6
-15.09,ReSharper,China,Linux,198352.8
-15.09,ReSharper,China,Mac OS,94850.4
-15.04,Idea,United States,Windows,54818.5
-15.04,Idea,United States,Linux,87015.2
-15.04,Idea,United States,Mac OS,50988
-15.05,Idea,United States,Windows,54994.5
-15.05,Idea,United States,Linux,88918.8
-15.05,Idea,United States,Mac OS,43041.6
-15.06,Idea,United States,Windows,56812
-15.06,Idea,United States,Linux,82595.2
-15.06,Idea,United States,Mac OS,47503.8
-15.07,Idea,United States,Windows,55632
-15.07,Idea,United States,Linux,96016.4
-15.07,Idea,United States,Mac OS,52422.6
-15.08,Idea,United States,Windows,50004
-15.08,Idea,United States,Linux,92819.2
-15.08,Idea,United States,Mac OS,47857.8
-15.09,Idea,United States,Windows,54006.5
-15.09,Idea,United States,Linux,81903.6
-15.09,Idea,United States,Mac OS,42849.6
-15.04,Idea,Netherland,Windows,42986.5
-15.04,Idea,Netherland,Linux,67443.2
-15.04,Idea,Netherland,Mac OS,36318
-15.05,Idea,Netherland,Windows,45630.5
-15.05,Idea,Netherland,Linux,70586.8
-15.05,Idea,Netherland,Mac OS,34318.2
-15.06,Idea,Netherland,Windows,44721.5
-15.06,Idea,Netherland,Linux,70743.2
-15.06,Idea,Netherland,Mac OS,41685
-15.07,Idea,Netherland,Windows,40444.5
-15.07,Idea,Netherland,Linux,74528.8
-15.07,Idea,Netherland,Mac OS,41047.8
-15.08,Idea,Netherland,Windows,40533
-15.08,Idea,Netherland,Linux,74668.8
-15.08,Idea,Netherland,Mac OS,40288.8
-15.09,Idea,Netherland,Windows,44007.5
-15.09,Idea,Netherland,Linux,64666.8
-15.09,Idea,Netherland,Mac OS,35659.8
-15.04,Idea,China,Windows,131636.8
-15.04,Idea,China,Linux,223005.6
-15.04,Idea,China,Mac OS,95660.8
-15.05,Idea,China,Windows,142384
-15.05,Idea,China,Linux,211409.4
-15.05,Idea,China,Mac OS,88469.6
-15.06,Idea,China,Windows,134868
-15.06,Idea,China,Linux,182085.6
-15.06,Idea,China,Mac OS,86992.8
-15.07,Idea,China,Windows,122623.2
-15.07,Idea,China,Linux,220277.4
-15.07,Idea,China,Mac OS,96048.8
-15.08,Idea,China,Windows,120112
-15.08,Idea,China,Linux,189721.8
-15.08,Idea,China,Mac OS,105503.2
-15.09,Idea,China,Windows,137167.2
-15.09,Idea,China,Linux,189991.8
-15.09,Idea,China,Mac OS,99462.4
-15.04,PhpStorm,United States,Windows,76520.5
-15.04,PhpStorm,United States,Linux,45425.4
-15.04,PhpStorm,United States,Mac OS,63934.2
-15.05,PhpStorm,United States,Windows,74781
-15.05,PhpStorm,United States,Linux,49806.4
-15.05,PhpStorm,United States,Mac OS,67673.7
-15.06,PhpStorm,United States,Windows,81119.5
-15.06,PhpStorm,United States,Linux,40299.2
-15.06,PhpStorm,United States,Mac OS,72010.8
-15.07,PhpStorm,United States,Windows,78178.8
-15.07,PhpStorm,United States,Linux,47580.2
-15.07,PhpStorm,United States,Mac OS,77136.3
-15.08,PhpStorm,United States,Windows,73455.9
-15.08,PhpStorm,United States,Linux,40767.4
-15.08,PhpStorm,United States,Mac OS,70060.5
-15.09,PhpStorm,United States,Windows,79394.7
-15.09,PhpStorm,United States,Linux,49579.2
-15.09,PhpStorm,United States,Mac OS,67195.8
-15.04,PhpStorm,Netherland,Windows,65066.4
-15.04,PhpStorm,Netherland,Linux,35011
-15.04,PhpStorm,Netherland,Mac OS,58343.4
-15.05,PhpStorm,Netherland,Windows,58522.1
-15.05,PhpStorm,Netherland,Linux,36417.6
-15.05,PhpStorm,Netherland,Mac OS,52233.3
-15.06,PhpStorm,Netherland,Windows,58587.9
-15.06,PhpStorm,Netherland,Linux,34973
-15.06,PhpStorm,Netherland,Mac OS,63984.6
-15.07,PhpStorm,Netherland,Windows,59648.4
-15.07,PhpStorm,Netherland,Linux,39121.6
-15.07,PhpStorm,Netherland,Mac OS,62415.9
-15.08,PhpStorm,Netherland,Windows,58077.6
-15.08,PhpStorm,Netherland,Linux,39280.4
-15.08,PhpStorm,Netherland,Mac OS,56738.7
-15.09,PhpStorm,Netherland,Windows,59124.1
-15.09,PhpStorm,Netherland,Linux,33141
-15.09,PhpStorm,Netherland,Mac OS,51095.7
-15.04,PhpStorm,China,Windows,105352.1
-15.04,PhpStorm,China,Linux,70486.2
-15.04,PhpStorm,China,Mac OS,116725.5
-15.05,PhpStorm,China,Windows,122833.2
-15.05,PhpStorm,China,Linux,66286.4
-15.05,PhpStorm,China,Mac OS,107997.3
-15.06,PhpStorm,China,Windows,111995.1
-15.06,PhpStorm,China,Linux,73861
-15.06,PhpStorm,China,Mac OS,120744.9
-15.07,PhpStorm,China,Windows,116475.8
-15.07,PhpStorm,China,Linux,70848
-15.07,PhpStorm,China,Mac OS,106104.6
-15.08,PhpStorm,China,Windows,105068.6
-15.08,PhpStorm,China,Linux,62099.6
-15.08,PhpStorm,China,Mac OS,107023.5
-15.09,PhpStorm,China,Windows,120232.7
-15.09,PhpStorm,China,Linux,60677.4
-15.09,PhpStorm,China,Mac OS,101833.2
+15.04,ReSharper,United States,0-10,119000
+15.04,ReSharper,United States,20-30,216127
+15.04,ReSharper,United States,30-40,88449
+15.05,ReSharper,United States,0-10,106820
+15.05,ReSharper,United States,20-30,240335
+15.05,ReSharper,United States,30-40,87343
+15.06,ReSharper,United States,0-10,107470
+15.06,ReSharper,United States,20-30,203372
+15.06,ReSharper,United States,30-40,86933
+15.07,ReSharper,United States,0-10,102947
+15.07,ReSharper,United States,20-30,228070
+15.07,ReSharper,United States,30-40,77570
+15.08,ReSharper,United States,0-10,108280
+15.08,ReSharper,United States,20-30,218662
+15.08,ReSharper,United States,30-40,76852
+15.09,ReSharper,United States,0-10,113381
+15.09,ReSharper,United States,20-30,223172
+15.09,ReSharper,United States,30-40,72370
+15.04,ReSharper,Netherland,0-10,87163
+15.04,ReSharper,Netherland,20-30,175093
+15.04,ReSharper,Netherland,30-40,71826
+15.05,ReSharper,Netherland,0-10,94588
+15.05,ReSharper,Netherland,20-30,183978
+15.05,ReSharper,Netherland,30-40,64144
+15.06,ReSharper,Netherland,0-10,91770
+15.06,ReSharper,Netherland,20-30,176102
+15.06,ReSharper,Netherland,30-40,70588
+15.07,ReSharper,Netherland,0-10,93247
+15.07,ReSharper,Netherland,20-30,167264
+15.07,ReSharper,Netherland,30-40,57471
+15.08,ReSharper,Netherland,0-10,83071
+15.08,ReSharper,Netherland,20-30,172668
+15.08,ReSharper,Netherland,30-40,69039
+15.09,ReSharper,Netherland,0-10,81507
+15.09,ReSharper,Netherland,20-30,178451
+15.09,ReSharper,Netherland,30-40,57439
+15.04,ReSharper,China,0-10,157510
+15.04,ReSharper,China,20-30,320839
+15.04,ReSharper,China,30-40,132781
+15.05,ReSharper,China,0-10,158627
+15.05,ReSharper,China,20-30,341723
+15.05,ReSharper,China,30-40,119212
+15.06,ReSharper,China,0-10,160474
+15.06,ReSharper,China,20-30,318358
+15.06,ReSharper,China,30-40,124723
+15.07,ReSharper,China,0-10,163257
+15.07,ReSharper,China,20-30,345304
+15.07,ReSharper,China,30-40,112877
+15.08,ReSharper,China,0-10,154233
+15.08,ReSharper,China,20-30,348597
+15.08,ReSharper,China,30-40,125591
+15.09,ReSharper,China,0-10,174692
+15.09,ReSharper,China,20-30,330588
+15.09,ReSharper,China,30-40,118563
+15.04,Idea,United States,0-10,109637
+15.04,Idea,United States,20-30,217538
+15.04,Idea,United States,30-40,84980
+15.05,Idea,United States,0-10,109989
+15.05,Idea,United States,20-30,222297
+15.05,Idea,United States,30-40,71736
+15.06,Idea,United States,0-10,113624
+15.06,Idea,United States,20-30,206488
+15.06,Idea,United States,30-40,79173
+15.07,Idea,United States,0-10,111264
+15.07,Idea,United States,20-30,240041
+15.07,Idea,United States,30-40,87371
+15.08,Idea,United States,0-10,100008
+15.08,Idea,United States,20-30,232048
+15.08,Idea,United States,30-40,79763
+15.09,Idea,United States,0-10,108013
+15.09,Idea,United States,20-30,204759
+15.09,Idea,United States,30-40,71416
+15.04,Idea,Netherland,0-10,85973
+15.04,Idea,Netherland,20-30,168608
+15.04,Idea,Netherland,30-40,60530
+15.05,Idea,Netherland,0-10,91261
+15.05,Idea,Netherland,20-30,176467
+15.05,Idea,Netherland,30-40,57197
+15.06,Idea,Netherland,0-10,89443
+15.06,Idea,Netherland,20-30,176858
+15.06,Idea,Netherland,30-40,69475
+15.07,Idea,Netherland,0-10,80889
+15.07,Idea,Netherland,20-30,186322
+15.07,Idea,Netherland,30-40,68413
+15.08,Idea,Netherland,0-10,81066
+15.08,Idea,Netherland,20-30,186672
+15.08,Idea,Netherland,30-40,67148
+15.09,Idea,Netherland,0-10,88015
+15.09,Idea,Netherland,20-30,161667
+15.09,Idea,Netherland,30-40,59433
+15.04,Idea,China,0-10,164546
+15.04,Idea,China,20-30,371676
+15.04,Idea,China,30-40,119576
+15.05,Idea,China,0-10,177980
+15.05,Idea,China,20-30,352349
+15.05,Idea,China,30-40,110587
+15.06,Idea,China,0-10,168585
+15.06,Idea,China,20-30,303476
+15.06,Idea,China,30-40,108741
+15.07,Idea,China,0-10,153279
+15.07,Idea,China,20-30,367129
+15.07,Idea,China,30-40,120061
+15.08,Idea,China,0-10,150140
+15.08,Idea,China,20-30,316203
+15.08,Idea,China,30-40,131879
+15.09,Idea,China,0-10,171459
+15.09,Idea,China,20-30,316653
+15.09,Idea,China,30-40,124328
+15.04,PhpStorm,United States,0-10,109315
+15.04,PhpStorm,United States,20-30,227127
+15.04,PhpStorm,United States,30-40,71038
+15.05,PhpStorm,United States,0-10,106830
+15.05,PhpStorm,United States,20-30,249032
+15.05,PhpStorm,United States,30-40,75193
+15.06,PhpStorm,United States,0-10,115885
+15.06,PhpStorm,United States,20-30,201496
+15.06,PhpStorm,United States,30-40,80012
+15.07,PhpStorm,United States,0-10,111684
+15.07,PhpStorm,United States,20-30,237901
+15.07,PhpStorm,United States,30-40,85707
+15.08,PhpStorm,United States,0-10,104937
+15.08,PhpStorm,United States,20-30,203837
+15.08,PhpStorm,United States,30-40,77845
+15.09,PhpStorm,United States,0-10,113421
+15.09,PhpStorm,United States,20-30,247896
+15.09,PhpStorm,United States,30-40,74662
+15.04,PhpStorm,Netherland,0-10,92952
+15.04,PhpStorm,Netherland,20-30,175055
+15.04,PhpStorm,Netherland,30-40,64826
+15.05,PhpStorm,Netherland,0-10,83603
+15.05,PhpStorm,Netherland,20-30,182088
+15.05,PhpStorm,Netherland,30-40,58037
+15.06,PhpStorm,Netherland,0-10,83697
+15.06,PhpStorm,Netherland,20-30,174865
+15.06,PhpStorm,Netherland,30-40,71094
+15.07,PhpStorm,Netherland,0-10,85212
+15.07,PhpStorm,Netherland,20-30,195608
+15.07,PhpStorm,Netherland,30-40,69351
+15.08,PhpStorm,Netherland,0-10,82968
+15.08,PhpStorm,Netherland,20-30,196402
+15.08,PhpStorm,Netherland,30-40,63043
+15.09,PhpStorm,Netherland,0-10,84463
+15.09,PhpStorm,Netherland,20-30,165705
+15.09,PhpStorm,Netherland,30-40,56773
+15.04,PhpStorm,China,0-10,150503
+15.04,PhpStorm,China,20-30,352431
+15.04,PhpStorm,China,30-40,129695
+15.05,PhpStorm,China,0-10,175476
+15.05,PhpStorm,China,20-30,331432
+15.05,PhpStorm,China,30-40,119997
+15.06,PhpStorm,China,0-10,159993
+15.06,PhpStorm,China,20-30,369305
+15.06,PhpStorm,China,30-40,134161
+15.07,PhpStorm,China,0-10,166394
+15.07,PhpStorm,China,20-30,354240
+15.07,PhpStorm,China,30-40,117894
+15.08,PhpStorm,China,0-10,150098
+15.08,PhpStorm,China,20-30,310498
+15.08,PhpStorm,China,30-40,118915
+15.09,PhpStorm,China,0-10,171761
+15.09,PhpStorm,China,20-30,303387
+15.09,PhpStorm,China,30-40,113148

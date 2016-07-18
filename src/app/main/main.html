@@ -6,13 +6,16 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
-        <select id="countries"></select>
-        <select id="products"></select>
-        <p>{{ main.awesomeThings }} - {{ main.sum }}</p>
-        <div id="funnel"></div>
-        <div ng-repeat="item in main.downloads">
-          {{item.date}}
-        </div>
+        <p ng-repeat="group in main.grouped">{{ group.key }}: {{group.value}}</p>
+        <div id="funnel">Records fetched: {{main.funnelData.length}}</div>
+        <table class="table" style="display: block;">
+          <tr ng-repeat="item in main.funnelData track by $index">
+            <td>{{item.date}}</td>
+            <td>{{item.product}}</td>
+            <td>{{item.country}}</td>
+            <td>{{item.action}}</td>
+          </tr>
+        </table>
       </div>
     </div>
   </div>
