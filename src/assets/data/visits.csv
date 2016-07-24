@@ -1,163 +1,163 @@
-date,product,country,session,count
-15.04,ReSharper,United States,0-10,119000
-15.04,ReSharper,United States,20-30,216127
-15.04,ReSharper,United States,30-40,88449
-15.05,ReSharper,United States,0-10,106820
-15.05,ReSharper,United States,20-30,240335
-15.05,ReSharper,United States,30-40,87343
-15.06,ReSharper,United States,0-10,107470
-15.06,ReSharper,United States,20-30,203372
-15.06,ReSharper,United States,30-40,86933
-15.07,ReSharper,United States,0-10,102947
-15.07,ReSharper,United States,20-30,228070
-15.07,ReSharper,United States,30-40,77570
-15.08,ReSharper,United States,0-10,108280
-15.08,ReSharper,United States,20-30,218662
-15.08,ReSharper,United States,30-40,76852
-15.09,ReSharper,United States,0-10,113381
-15.09,ReSharper,United States,20-30,223172
-15.09,ReSharper,United States,30-40,72370
-15.04,ReSharper,Netherland,0-10,87163
-15.04,ReSharper,Netherland,20-30,175093
-15.04,ReSharper,Netherland,30-40,71826
-15.05,ReSharper,Netherland,0-10,94588
-15.05,ReSharper,Netherland,20-30,183978
-15.05,ReSharper,Netherland,30-40,64144
-15.06,ReSharper,Netherland,0-10,91770
-15.06,ReSharper,Netherland,20-30,176102
-15.06,ReSharper,Netherland,30-40,70588
-15.07,ReSharper,Netherland,0-10,93247
-15.07,ReSharper,Netherland,20-30,167264
-15.07,ReSharper,Netherland,30-40,57471
-15.08,ReSharper,Netherland,0-10,83071
-15.08,ReSharper,Netherland,20-30,172668
-15.08,ReSharper,Netherland,30-40,69039
-15.09,ReSharper,Netherland,0-10,81507
-15.09,ReSharper,Netherland,20-30,178451
-15.09,ReSharper,Netherland,30-40,57439
-15.04,ReSharper,China,0-10,157510
-15.04,ReSharper,China,20-30,320839
-15.04,ReSharper,China,30-40,132781
-15.05,ReSharper,China,0-10,158627
-15.05,ReSharper,China,20-30,341723
-15.05,ReSharper,China,30-40,119212
-15.06,ReSharper,China,0-10,160474
-15.06,ReSharper,China,20-30,318358
-15.06,ReSharper,China,30-40,124723
-15.07,ReSharper,China,0-10,163257
-15.07,ReSharper,China,20-30,345304
-15.07,ReSharper,China,30-40,112877
-15.08,ReSharper,China,0-10,154233
-15.08,ReSharper,China,20-30,348597
-15.08,ReSharper,China,30-40,125591
-15.09,ReSharper,China,0-10,174692
-15.09,ReSharper,China,20-30,330588
-15.09,ReSharper,China,30-40,118563
-15.04,Idea,United States,0-10,109637
-15.04,Idea,United States,20-30,217538
-15.04,Idea,United States,30-40,84980
-15.05,Idea,United States,0-10,109989
-15.05,Idea,United States,20-30,222297
-15.05,Idea,United States,30-40,71736
-15.06,Idea,United States,0-10,113624
-15.06,Idea,United States,20-30,206488
-15.06,Idea,United States,30-40,79173
-15.07,Idea,United States,0-10,111264
-15.07,Idea,United States,20-30,240041
-15.07,Idea,United States,30-40,87371
-15.08,Idea,United States,0-10,100008
-15.08,Idea,United States,20-30,232048
-15.08,Idea,United States,30-40,79763
-15.09,Idea,United States,0-10,108013
-15.09,Idea,United States,20-30,204759
-15.09,Idea,United States,30-40,71416
-15.04,Idea,Netherland,0-10,85973
-15.04,Idea,Netherland,20-30,168608
-15.04,Idea,Netherland,30-40,60530
-15.05,Idea,Netherland,0-10,91261
-15.05,Idea,Netherland,20-30,176467
-15.05,Idea,Netherland,30-40,57197
-15.06,Idea,Netherland,0-10,89443
-15.06,Idea,Netherland,20-30,176858
-15.06,Idea,Netherland,30-40,69475
-15.07,Idea,Netherland,0-10,80889
-15.07,Idea,Netherland,20-30,186322
-15.07,Idea,Netherland,30-40,68413
-15.08,Idea,Netherland,0-10,81066
-15.08,Idea,Netherland,20-30,186672
-15.08,Idea,Netherland,30-40,67148
-15.09,Idea,Netherland,0-10,88015
-15.09,Idea,Netherland,20-30,161667
-15.09,Idea,Netherland,30-40,59433
-15.04,Idea,China,0-10,164546
-15.04,Idea,China,20-30,371676
-15.04,Idea,China,30-40,119576
-15.05,Idea,China,0-10,177980
-15.05,Idea,China,20-30,352349
-15.05,Idea,China,30-40,110587
-15.06,Idea,China,0-10,168585
-15.06,Idea,China,20-30,303476
-15.06,Idea,China,30-40,108741
-15.07,Idea,China,0-10,153279
-15.07,Idea,China,20-30,367129
-15.07,Idea,China,30-40,120061
-15.08,Idea,China,0-10,150140
-15.08,Idea,China,20-30,316203
-15.08,Idea,China,30-40,131879
-15.09,Idea,China,0-10,171459
-15.09,Idea,China,20-30,316653
-15.09,Idea,China,30-40,124328
-15.04,PhpStorm,United States,0-10,109315
-15.04,PhpStorm,United States,20-30,227127
-15.04,PhpStorm,United States,30-40,71038
-15.05,PhpStorm,United States,0-10,106830
-15.05,PhpStorm,United States,20-30,249032
-15.05,PhpStorm,United States,30-40,75193
-15.06,PhpStorm,United States,0-10,115885
-15.06,PhpStorm,United States,20-30,201496
-15.06,PhpStorm,United States,30-40,80012
-15.07,PhpStorm,United States,0-10,111684
-15.07,PhpStorm,United States,20-30,237901
-15.07,PhpStorm,United States,30-40,85707
-15.08,PhpStorm,United States,0-10,104937
-15.08,PhpStorm,United States,20-30,203837
-15.08,PhpStorm,United States,30-40,77845
-15.09,PhpStorm,United States,0-10,113421
-15.09,PhpStorm,United States,20-30,247896
-15.09,PhpStorm,United States,30-40,74662
-15.04,PhpStorm,Netherland,0-10,92952
-15.04,PhpStorm,Netherland,20-30,175055
-15.04,PhpStorm,Netherland,30-40,64826
-15.05,PhpStorm,Netherland,0-10,83603
-15.05,PhpStorm,Netherland,20-30,182088
-15.05,PhpStorm,Netherland,30-40,58037
-15.06,PhpStorm,Netherland,0-10,83697
-15.06,PhpStorm,Netherland,20-30,174865
-15.06,PhpStorm,Netherland,30-40,71094
-15.07,PhpStorm,Netherland,0-10,85212
-15.07,PhpStorm,Netherland,20-30,195608
-15.07,PhpStorm,Netherland,30-40,69351
-15.08,PhpStorm,Netherland,0-10,82968
-15.08,PhpStorm,Netherland,20-30,196402
-15.08,PhpStorm,Netherland,30-40,63043
-15.09,PhpStorm,Netherland,0-10,84463
-15.09,PhpStorm,Netherland,20-30,165705
-15.09,PhpStorm,Netherland,30-40,56773
-15.04,PhpStorm,China,0-10,150503
-15.04,PhpStorm,China,20-30,352431
-15.04,PhpStorm,China,30-40,129695
-15.05,PhpStorm,China,0-10,175476
-15.05,PhpStorm,China,20-30,331432
-15.05,PhpStorm,China,30-40,119997
-15.06,PhpStorm,China,0-10,159993
-15.06,PhpStorm,China,20-30,369305
-15.06,PhpStorm,China,30-40,134161
-15.07,PhpStorm,China,0-10,166394
-15.07,PhpStorm,China,20-30,354240
-15.07,PhpStorm,China,30-40,117894
-15.08,PhpStorm,China,0-10,150098
-15.08,PhpStorm,China,20-30,310498
-15.08,PhpStorm,China,30-40,118915
-15.09,PhpStorm,China,0-10,171761
-15.09,PhpStorm,China,20-30,303387
-15.09,PhpStorm,China,30-40,113148
+date,product,country,session,count,source
+15.04,ReSharper,United States,0-10,119000,search
+15.04,ReSharper,United States,20-30,216127,facebook
+15.04,ReSharper,United States,30-40,88449,email
+15.05,ReSharper,United States,0-10,106820,email
+15.05,ReSharper,United States,20-30,240335,email
+15.05,ReSharper,United States,30-40,87343,twitter
+15.06,ReSharper,United States,0-10,107470,search
+15.06,ReSharper,United States,20-30,203372,facebook
+15.06,ReSharper,United States,30-40,86933,facebook
+15.07,ReSharper,United States,0-10,102947,twitter
+15.07,ReSharper,United States,20-30,228070,email
+15.07,ReSharper,United States,30-40,77570,email
+15.08,ReSharper,United States,0-10,108280,email
+15.08,ReSharper,United States,20-30,218662,search
+15.08,ReSharper,United States,30-40,76852,facebook
+15.09,ReSharper,United States,0-10,113381,email
+15.09,ReSharper,United States,20-30,223172,twitter
+15.09,ReSharper,United States,30-40,72370,email
+15.04,ReSharper,Netherland,0-10,87163,twitter
+15.04,ReSharper,Netherland,20-30,175093,search
+15.04,ReSharper,Netherland,30-40,71826,facebook
+15.05,ReSharper,Netherland,0-10,94588,facebook
+15.05,ReSharper,Netherland,20-30,183978,twitter
+15.05,ReSharper,Netherland,30-40,64144,email
+15.06,ReSharper,Netherland,0-10,91770,search
+15.06,ReSharper,Netherland,20-30,176102,twitter
+15.06,ReSharper,Netherland,30-40,70588,search
+15.07,ReSharper,Netherland,0-10,93247,facebook
+15.07,ReSharper,Netherland,20-30,167264,email
+15.07,ReSharper,Netherland,30-40,57471,twitter
+15.08,ReSharper,Netherland,0-10,83071,email
+15.08,ReSharper,Netherland,20-30,172668,twitter
+15.08,ReSharper,Netherland,30-40,69039,search
+15.09,ReSharper,Netherland,0-10,81507,facebook
+15.09,ReSharper,Netherland,20-30,178451,facebook
+15.09,ReSharper,Netherland,30-40,57439,twitter
+15.04,ReSharper,China,0-10,157510,email
+15.04,ReSharper,China,20-30,320839,search
+15.04,ReSharper,China,30-40,132781,twitter
+15.05,ReSharper,China,0-10,158627,search
+15.05,ReSharper,China,20-30,341723,facebook
+15.05,ReSharper,China,30-40,119212,email
+15.06,ReSharper,China,0-10,160474,twitter
+15.06,ReSharper,China,20-30,318358,email
+15.06,ReSharper,China,30-40,124723,twitter
+15.07,ReSharper,China,0-10,163257,search
+15.07,ReSharper,China,20-30,345304,facebook
+15.07,ReSharper,China,30-40,112877,facebook
+15.08,ReSharper,China,0-10,154233,twitter
+15.08,ReSharper,China,20-30,348597,email
+15.08,ReSharper,China,30-40,125591,search
+15.09,ReSharper,China,0-10,174692,twitter
+15.09,ReSharper,China,20-30,330588,search
+15.09,ReSharper,China,30-40,118563,facebook
+15.04,Idea,United States,0-10,109637,email
+15.04,Idea,United States,20-30,217538,email
+15.04,Idea,United States,30-40,84980,email
+15.05,Idea,United States,0-10,109989,twitter
+15.05,Idea,United States,20-30,222297,search
+15.05,Idea,United States,30-40,71736,facebook
+15.06,Idea,United States,0-10,113624,facebook
+15.06,Idea,United States,20-30,206488,twitter
+15.06,Idea,United States,30-40,79173,email
+15.07,Idea,United States,0-10,111264,search
+15.07,Idea,United States,20-30,240041,twitter
+15.07,Idea,United States,30-40,87371,search
+15.08,Idea,United States,0-10,100008,facebook
+15.08,Idea,United States,20-30,232048,email
+15.08,Idea,United States,30-40,79763,twitter
+15.09,Idea,United States,0-10,108013,email
+15.09,Idea,United States,20-30,204759,twitter
+15.09,Idea,United States,30-40,71416,search
+15.04,Idea,Netherland,0-10,85973,email
+15.04,Idea,Netherland,20-30,168608,facebook
+15.04,Idea,Netherland,30-40,60530,twitter
+15.05,Idea,Netherland,0-10,91261,email
+15.05,Idea,Netherland,20-30,176467,search
+15.05,Idea,Netherland,30-40,57197,twitter
+15.06,Idea,Netherland,0-10,89443,search
+15.06,Idea,Netherland,20-30,176858,facebook
+15.06,Idea,Netherland,30-40,69475,email
+15.07,Idea,Netherland,0-10,80889,twitter
+15.07,Idea,Netherland,20-30,186322,email
+15.07,Idea,Netherland,30-40,68413,twitter
+15.08,Idea,Netherland,0-10,81066,search
+15.08,Idea,Netherland,20-30,186672,email
+15.08,Idea,Netherland,30-40,67148,facebook
+15.09,Idea,Netherland,0-10,88015,twitter
+15.09,Idea,Netherland,20-30,161667,email
+15.09,Idea,Netherland,30-40,59433,search
+15.04,Idea,China,0-10,164546,twitter
+15.04,Idea,China,20-30,371676,search
+15.04,Idea,China,30-40,119576,facebook
+15.05,Idea,China,0-10,177980,email
+15.05,Idea,China,20-30,352349,twitter
+15.05,Idea,China,30-40,110587,email
+15.06,Idea,China,0-10,168585,twitter
+15.06,Idea,China,20-30,303476,search
+15.06,Idea,China,30-40,108741,email
+15.07,Idea,China,0-10,153279,facebook
+15.07,Idea,China,20-30,367129,twitter
+15.07,Idea,China,30-40,120061,email
+15.08,Idea,China,0-10,150140,search
+15.08,Idea,China,20-30,316203,twitter
+15.08,Idea,China,30-40,131879,search
+15.09,Idea,China,0-10,171459,email
+15.09,Idea,China,20-30,316653,email
+15.09,Idea,China,30-40,124328,twitter
+15.04,PhpStorm,United States,0-10,109315,email
+15.04,PhpStorm,United States,20-30,227127,twitter
+15.04,PhpStorm,United States,30-40,71038,search
+15.05,PhpStorm,United States,0-10,106830,email
+15.05,PhpStorm,United States,20-30,249032,email
+15.05,PhpStorm,United States,30-40,75193,twitter
+15.06,PhpStorm,United States,0-10,115885,email
+15.06,PhpStorm,United States,20-30,201496,search
+15.06,PhpStorm,United States,30-40,80012,twitter
+15.07,PhpStorm,United States,0-10,111684,search
+15.07,PhpStorm,United States,20-30,237901,facebook
+15.07,PhpStorm,United States,30-40,85707,email
+15.08,PhpStorm,United States,0-10,104937,twitter
+15.08,PhpStorm,United States,20-30,203837,email
+15.08,PhpStorm,United States,30-40,77845,twitter
+15.09,PhpStorm,United States,0-10,113421,search
+15.09,PhpStorm,United States,20-30,247896,facebook
+15.09,PhpStorm,United States,30-40,74662,facebook
+15.04,PhpStorm,Netherland,0-10,92952,twitter
+15.04,PhpStorm,Netherland,20-30,175055,email
+15.04,PhpStorm,Netherland,30-40,64826,search
+15.05,PhpStorm,Netherland,0-10,83603,twitter
+15.05,PhpStorm,Netherland,20-30,182088,search
+15.05,PhpStorm,Netherland,30-40,58037,facebook
+15.06,PhpStorm,Netherland,0-10,83697,email
+15.06,PhpStorm,Netherland,20-30,174865,email
+15.06,PhpStorm,Netherland,30-40,71094,email
+15.07,PhpStorm,Netherland,0-10,85212,twitter
+15.07,PhpStorm,Netherland,20-30,195608,search
+15.07,PhpStorm,Netherland,30-40,69351,facebook
+15.08,PhpStorm,Netherland,0-10,82968,facebook
+15.08,PhpStorm,Netherland,20-30,196402,email
+15.08,PhpStorm,Netherland,30-40,63043,email
+15.09,PhpStorm,Netherland,0-10,84463,search
+15.09,PhpStorm,Netherland,20-30,165705,twitter
+15.09,PhpStorm,Netherland,30-40,56773,search
+15.04,PhpStorm,China,0-10,150503,facebook
+15.04,PhpStorm,China,20-30,352431,email
+15.04,PhpStorm,China,30-40,129695,twitter
+15.05,PhpStorm,China,0-10,175476,email
+15.05,PhpStorm,China,20-30,331432,twitter
+15.05,PhpStorm,China,30-40,119997,search
+15.06,PhpStorm,China,0-10,159993,email
+15.06,PhpStorm,China,20-30,369305,email
+15.06,PhpStorm,China,30-40,134161,twitter
+15.07,PhpStorm,China,0-10,166394,email
+15.07,PhpStorm,China,20-30,354240,search
+15.07,PhpStorm,China,30-40,117894,twitter
+15.08,PhpStorm,China,0-10,150098,search
+15.08,PhpStorm,China,20-30,310498,facebook
+15.08,PhpStorm,China,30-40,118915,email
+15.09,PhpStorm,China,0-10,171761,twitter
+15.09,PhpStorm,China,20-30,303387,email
+15.09,PhpStorm,China,30-40,113148,twitter

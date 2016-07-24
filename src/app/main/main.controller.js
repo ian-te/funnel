@@ -42,20 +42,21 @@
             result = result.concat(data);
             // result = result.filter(function(d) { return d.country == 'United States' });
             var grouped = d3.nest()
-                .key(function(d) { return d.action;})
                 .key(function(d) { return d.source;})
+                .key(function(d) { return d.action;})
                 .rollup(function(d) {
                   return d3.sum(d, function(g) {
                     return Math.round(g.count);
                   });
                 })
                 .entries(result);
-
             grouped.forEach(function(d){
+
               d.count = d3.sum(d.values, function(g){
                 return g.value
               });
             });
+            $log.log(chartData);
 
             $timeout(function(){
               $log.log(grouped);
