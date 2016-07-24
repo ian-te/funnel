@@ -40,10 +40,10 @@
             return d;
           }, function(data) {
             result = result.concat(data);
-            result = result.filter(function(d) { return d.country == 'United States' });
+            // result = result.filter(function(d) { return d.country == 'United States' });
             var grouped = d3.nest()
                 .key(function(d) { return d.action;})
-                // .key(function(d) { return d.source;})
+                .key(function(d) { return d.source;})
                 .rollup(function(d) {
                   return d3.sum(d, function(g) {
                     return Math.round(g.count);
@@ -51,30 +51,50 @@
                 })
                 .entries(result);
 
+            grouped.forEach(function(d){
+              d.count = d3.sum(d.values, function(g){
+                return g.value
+              });
+            });
+
             $timeout(function(){
               $log.log(grouped);
               vm.funnelData = result;
               vm.grouped = grouped;
-              var data = grouped;
+
+
               var data = grouped;
               // STARTING THE DRAWING
 
-              var width = 420,
-                  barHeight = 20;
 
-              var x = d3.scaleLinear()
-                  .domain([0, d3.max(grouped)])
-                  .range([0, width]);
+              var width = 560,
+                  height = 200;
 
-              d3.select("#funnel")
-                  .append("svg")
-                  .attr("width", 50)
-                  .attr("height", 50)
-                  .append("circle")
-                  .attr("cx", 25)
-                  .attr("cy", 25)
-                  .attr("r", 25)
-                  .style("fill", "purple");
+              var y = d3.scaleLinear()
+                  .range([height, 0]);
+
+              var stack = d3.stack();
+
+
+              var chart = d3.select(".chart")
+                  .attr("width", width)
+                  .attr("height", height);
+
+
+              y.domain([0, d3.max(data, function(d) { return d.count; })]);
+
+              chart.selectAll('rect')
+                  .data(data)
+                  .enter()
+                  .append('rect')
+                  .attr('x', function(d, i) {return i * 31})
+                  .attr('width', 30)
+                  .attr('height', 0)
+                  .transition()
+                  .duration(2000)
+                  .attr('height', function(d, i) {return height - y(d.count)})
+
+
             });
 
           });
