@@ -6,6 +6,11 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12">
+        <select ng-model="test.source" multiple>
+          <option selected disabled ></option>
+          <option ng-repeat="source in test.sources">{{source}}</option>
+        </select>
+        <tt>test.source = {{test.source}}</tt>
         <div id="funnel">
           <svg class="chart" ></svg>
         </div>
