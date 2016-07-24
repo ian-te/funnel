@@ -1,4 +1,4 @@
-date,product,country,os,count
+date,product,country,session,count
 15.04,ReSharper,United States,0-10,119000
 15.04,ReSharper,United States,20-30,216127
 15.04,ReSharper,United States,30-40,88449

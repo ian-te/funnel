@@ -7,10 +7,11 @@
     <div class="row">
       <div class="col-md-12">
         <p ng-repeat="group in main.grouped">{{ group.key }}: {{group.value}}</p>
-        <div id="funnel">Records fetched: {{main.funnelData.length}}</div>
+        <div id="funnel"><svg class="chart"></svg></div>
         <table class="table" style="display: block;">
           <tr ng-repeat="item in main.funnelData track by $index">
             <td>{{item.date}}</td>
+            <td>{{item.source}}</td>
             <td>{{item.product}}</td>
             <td>{{item.country}}</td>
             <td>{{item.action}}</td>
@@ -19,5 +20,5 @@
       </div>
     </div>
   </div>
-
+z
 </div>
