@@ -15,8 +15,8 @@
             },
             templateUrl: 'app/components/chart/chart.html',
             /** @ngInject */
-            link: function ($scope, element, attrs) {
-                var vm = $scope;;
+            link: function ($scope, element) {
+                var vm = $scope;
                 var margin = {top: 20, right: 50, bottom: 30, left: 20},
                     width = 760 - margin.left - margin.right,
                     height = 500 - margin.top - margin.bottom;
@@ -25,7 +25,6 @@
                 var sources = d3.map(vm.data, function(d){return d.source;}).keys()
                 $scope.$watchCollection('filter',function(){
                     if(vm.filter && vm.filter.countries){
-                        console.log(vm.filter.countries)
                         vm.data = fullData.filter(function(d){ return vm.filter.countries.indexOf(d.country) > -1 })
                     }
                 });
@@ -102,7 +101,7 @@
                         .data(function(d) {return d})
                         .enter()
                         .append('rect')
-                        .attr('width', function(d, i){ return 59 })
+                        .attr('width', function(){ return 59 })
                         .attr('x', function(d, i){ return i * 180 })
                         .attr('y', function(d){return y(d[1]) } )
                         .attr("height", function(d) {return y(d[0]) - y(d[1]); })
