@@ -1,0 +1,163 @@
+date,product,country,os,count,source
+15.04,ReSharper,United States,Windows,59500,search
+15.04,ReSharper,United States,Linux,86450.8,facebook
+15.04,ReSharper,United States,Mac OS,53069.4,email
+15.05,ReSharper,United States,Windows,53410,twitter
+15.05,ReSharper,United States,Linux,96134,email
+15.05,ReSharper,United States,Mac OS,52405.8,twitter
+15.06,ReSharper,United States,Windows,53735,search
+15.06,ReSharper,United States,Linux,81348.8,facebook
+15.06,ReSharper,United States,Mac OS,52159.8,facebook
+15.07,ReSharper,United States,Windows,51473.5,twitter
+15.07,ReSharper,United States,Linux,91228,email
+15.07,ReSharper,United States,Mac OS,46542,search
+15.08,ReSharper,United States,Windows,54140,twitter
+15.08,ReSharper,United States,Linux,87464.8,search
+15.08,ReSharper,United States,Mac OS,46111.2,facebook
+15.09,ReSharper,United States,Windows,56690.5,email
+15.09,ReSharper,United States,Linux,89268.8,twitter
+15.09,ReSharper,United States,Mac OS,43422,email
+15.04,ReSharper,Netherland,Windows,43581.5,twitter
+15.04,ReSharper,Netherland,Linux,70037.2,search
+15.04,ReSharper,Netherland,Mac OS,43095.6,facebook
+15.05,ReSharper,Netherland,Windows,47294,facebook
+15.05,ReSharper,Netherland,Linux,73591.2,twitter
+15.05,ReSharper,Netherland,Mac OS,38486.4,email
+15.06,ReSharper,Netherland,Windows,45885,search
+15.06,ReSharper,Netherland,Linux,70440.8,twitter
+15.06,ReSharper,Netherland,Mac OS,42352.8,search
+15.07,ReSharper,Netherland,Windows,46623.5,facebook
+15.07,ReSharper,Netherland,Linux,66905.6,email
+15.07,ReSharper,Netherland,Mac OS,34482.6,twitter
+15.08,ReSharper,Netherland,Windows,41535.5,email
+15.08,ReSharper,Netherland,Linux,69067.2,twitter
+15.08,ReSharper,Netherland,Mac OS,41423.4,search
+15.09,ReSharper,Netherland,Windows,40753.5,facebook
+15.09,ReSharper,Netherland,Linux,71380.4,facebook
+15.09,ReSharper,Netherland,Mac OS,34463.4,twitter
+15.04,ReSharper,China,Windows,126008,email
+15.04,ReSharper,China,Linux,192503.4,search
+15.04,ReSharper,China,Mac OS,106224.8,twitter
+15.05,ReSharper,China,Windows,126901.6,search
+15.05,ReSharper,China,Linux,205033.8,facebook
+15.05,ReSharper,China,Mac OS,95369.6,email
+15.06,ReSharper,China,Windows,128379.2,twitter
+15.06,ReSharper,China,Linux,191014.8,email
+15.06,ReSharper,China,Mac OS,99778.4,twitter
+15.07,ReSharper,China,Windows,130605.6,search
+15.07,ReSharper,China,Linux,207182.4,facebook
+15.07,ReSharper,China,Mac OS,90301.6,facebook
+15.08,ReSharper,China,Windows,123386.4,twitter
+15.08,ReSharper,China,Linux,209158.2,email
+15.08,ReSharper,China,Mac OS,100472.8,search
+15.09,ReSharper,China,Windows,139753.6,twitter
+15.09,ReSharper,China,Linux,198352.8,search
+15.09,ReSharper,China,Mac OS,94850.4,facebook
+15.04,Idea,United States,Windows,54818.5,email
+15.04,Idea,United States,Linux,87015.2,twitter
+15.04,Idea,United States,Mac OS,50988,email
+15.05,Idea,United States,Windows,54994.5,twitter
+15.05,Idea,United States,Linux,88918.8,search
+15.05,Idea,United States,Mac OS,43041.6,facebook
+15.06,Idea,United States,Windows,56812,facebook
+15.06,Idea,United States,Linux,82595.2,twitter
+15.06,Idea,United States,Mac OS,47503.8,email
+15.07,Idea,United States,Windows,55632,search
+15.07,Idea,United States,Linux,96016.4,twitter
+15.07,Idea,United States,Mac OS,52422.6,search
+15.08,Idea,United States,Windows,50004,facebook
+15.08,Idea,United States,Linux,92819.2,email
+15.08,Idea,United States,Mac OS,47857.8,twitter
+15.09,Idea,United States,Windows,54006.5,email
+15.09,Idea,United States,Linux,81903.6,twitter
+15.09,Idea,United States,Mac OS,42849.6,search
+15.04,Idea,Netherland,Windows,42986.5,facebook
+15.04,Idea,Netherland,Linux,67443.2,facebook
+15.04,Idea,Netherland,Mac OS,36318,twitter
+15.05,Idea,Netherland,Windows,45630.5,email
+15.05,Idea,Netherland,Linux,70586.8,search
+15.05,Idea,Netherland,Mac OS,34318.2,twitter
+15.06,Idea,Netherland,Windows,44721.5,search
+15.06,Idea,Netherland,Linux,70743.2,facebook
+15.06,Idea,Netherland,Mac OS,41685,email
+15.07,Idea,Netherland,Windows,40444.5,twitter
+15.07,Idea,Netherland,Linux,74528.8,email
+15.07,Idea,Netherland,Mac OS,41047.8,twitter
+15.08,Idea,Netherland,Windows,40533,search
+15.08,Idea,Netherland,Linux,74668.8,facebook
+15.08,Idea,Netherland,Mac OS,40288.8,facebook
+15.09,Idea,Netherland,Windows,44007.5,twitter
+15.09,Idea,Netherland,Linux,64666.8,email
+15.09,Idea,Netherland,Mac OS,35659.8,search
+15.04,Idea,China,Windows,131636.8,twitter
+15.04,Idea,China,Linux,223005.6,search
+15.04,Idea,China,Mac OS,95660.8,facebook
+15.05,Idea,China,Windows,142384,email
+15.05,Idea,China,Linux,211409.4,twitter
+15.05,Idea,China,Mac OS,88469.6,email
+15.06,Idea,China,Windows,134868,twitter
+15.06,Idea,China,Linux,182085.6,search
+15.06,Idea,China,Mac OS,86992.8,facebook
+15.07,Idea,China,Windows,122623.2,facebook
+15.07,Idea,China,Linux,220277.4,twitter
+15.07,Idea,China,Mac OS,96048.8,email
+15.08,Idea,China,Windows,120112,search
+15.08,Idea,China,Linux,189721.8,twitter
+15.08,Idea,China,Mac OS,105503.2,search
+15.09,Idea,China,Windows,137167.2,facebook
+15.09,Idea,China,Linux,189991.8,email
+15.09,Idea,China,Mac OS,99462.4,twitter
+15.04,PhpStorm,United States,Windows,76520.5,email
+15.04,PhpStorm,United States,Linux,45425.4,twitter
+15.04,PhpStorm,United States,Mac OS,63934.2,search
+15.05,PhpStorm,United States,Windows,74781,facebook
+15.05,PhpStorm,United States,Linux,49806.4,facebook
+15.05,PhpStorm,United States,Mac OS,67673.7,twitter
+15.06,PhpStorm,United States,Windows,81119.5,email
+15.06,PhpStorm,United States,Linux,40299.2,search
+15.06,PhpStorm,United States,Mac OS,72010.8,twitter
+15.07,PhpStorm,United States,Windows,78178.8,search
+15.07,PhpStorm,United States,Linux,47580.2,facebook
+15.07,PhpStorm,United States,Mac OS,77136.3,email
+15.08,PhpStorm,United States,Windows,73455.9,twitter
+15.08,PhpStorm,United States,Linux,40767.4,email
+15.08,PhpStorm,United States,Mac OS,70060.5,twitter
+15.09,PhpStorm,United States,Windows,79394.7,search
+15.09,PhpStorm,United States,Linux,49579.2,facebook
+15.09,PhpStorm,United States,Mac OS,67195.8,facebook
+15.04,PhpStorm,Netherland,Windows,65066.4,twitter
+15.04,PhpStorm,Netherland,Linux,35011,email
+15.04,PhpStorm,Netherland,Mac OS,58343.4,search
+15.05,PhpStorm,Netherland,Windows,58522.1,twitter
+15.05,PhpStorm,Netherland,Linux,36417.6,search
+15.05,PhpStorm,Netherland,Mac OS,52233.3,facebook
+15.06,PhpStorm,Netherland,Windows,58587.9,email
+15.06,PhpStorm,Netherland,Linux,34973,twitter
+15.06,PhpStorm,Netherland,Mac OS,63984.6,email
+15.07,PhpStorm,Netherland,Windows,59648.4,twitter
+15.07,PhpStorm,Netherland,Linux,39121.6,search
+15.07,PhpStorm,Netherland,Mac OS,62415.9,facebook
+15.08,PhpStorm,Netherland,Windows,58077.6,facebook
+15.08,PhpStorm,Netherland,Linux,39280.4,twitter
+15.08,PhpStorm,Netherland,Mac OS,56738.7,email
+15.09,PhpStorm,Netherland,Windows,59124.1,search
+15.09,PhpStorm,Netherland,Linux,33141,twitter
+15.09,PhpStorm,Netherland,Mac OS,51095.7,search
+15.04,PhpStorm,China,Windows,105352.1,facebook
+15.04,PhpStorm,China,Linux,70486.2,email
+15.04,PhpStorm,China,Mac OS,116725.5,twitter
+15.05,PhpStorm,China,Windows,122833.2,email
+15.05,PhpStorm,China,Linux,66286.4,twitter
+15.05,PhpStorm,China,Mac OS,107997.3,search
+15.06,PhpStorm,China,Windows,111995.1,facebook
+15.06,PhpStorm,China,Linux,73861,facebook
+15.06,PhpStorm,China,Mac OS,120744.9,twitter
+15.07,PhpStorm,China,Windows,116475.8,email
+15.07,PhpStorm,China,Linux,70848,search
+15.07,PhpStorm,China,Mac OS,106104.6,twitter
+15.08,PhpStorm,China,Windows,105068.6,search
+15.08,PhpStorm,China,Linux,62099.6,facebook
+15.08,PhpStorm,China,Mac OS,107023.5,email
+15.09,PhpStorm,China,Windows,120232.7,twitter
+15.09,PhpStorm,China,Linux,60677.4,email
+15.09,PhpStorm,China,Mac OS,101833.2,twitter
