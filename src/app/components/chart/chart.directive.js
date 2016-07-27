@@ -28,6 +28,7 @@
                         vm.data = fullData.filter(function(d){ return vm.filter.countries.indexOf(d.country) > -1 })
                     }
                 });
+                console.log($scope)
                 $scope.$watch(function(){
                     d3.selectAll('svg').remove();
 
@@ -35,7 +36,7 @@
                     var svg = d3.select(element[0]).append("svg")
                         .attr("width", width + margin.left + margin.right)
                         .attr("height", height + margin.top + margin.bottom);
-
+                    console.log(svg)
 
                     // If we don't pass any data, return out of the element
 
