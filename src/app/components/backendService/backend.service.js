@@ -7,7 +7,7 @@ function backendModule($q, $timeout) {
     var service = {
         get: function () {
             var deferred = $q.defer();
-            var mockData = [
+            var mockData =  [
                 {
                     "date": "15.04",
                     "product": "ReSharper",

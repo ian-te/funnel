@@ -1,1 +1,21 @@
 <svg class="chart"></svg>
+{{ filter }}
+<hr>
+{{ channelFilter }}
+<div class="dropdown">
+    <table class="table">
+        <tr>
+            <td ng-repeat="item in filtered">
+                <label for="">{{item.key}}</label>
+                <div ng-repeat="(name, fltr) in item.value.filters">
+                    <label for="">{{name}}</label>
+                    <select ng-model="channelFilter[name]">
+                        <option selected disabled>Select</option>
+                        <option ng-repeat="filterVal in fltr">{{filterVal}}</option>
+                    </select>
+                </div>
+            </td>
+        </tr>
+    </table>
+</div>
+

@@ -10,12 +10,12 @@
         var vm = this;
         vm.filters = {};
 
-        backend.get().then(function (d) {
-            vm.data = d;
-            vm.dataHasLoaded = true;
-            vm.filters.countries = d3.map(vm.data, function(d){return d.country}).keys()
-            vm.filters.sources = d3.map(vm.data, function(d){return d.source}).keys()
-        });
+        backend.get()
+            .then(function (d) {
+                vm.data = d;
+                vm.dataHasLoaded = true;
+                vm.filters.countries = d3.map(vm.data, function(d){return d.country}).keys()
+            });
 
 
     }
