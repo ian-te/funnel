@@ -30,21 +30,21 @@
             var p = d3.precisionPrefix(1e5, 1.3e6),
                 f = d3.formatPrefix("." + p, 1.3e6);
 
+            var chart = d3.select($element[0]).select('svg')
+                .attr('width',500)
+                .attr('height', 300);
 
-            $log.log(vm.data, vm.filter);
+
             $scope.$watch(function(){
                 vm.render();
                 $log.log(vm.data)
             });
 
             vm.render = function(){
+                chart.selectAll('*').remove();
                 var y = d3.scaleLinear().range([height, 0]);
                 y.domain([0, d3.max(vm.data, function(d) { return d.value; })]);
 
-                var chart = d3.select($element[0]).select('svg')
-                    .attr('width',500)
-                    .attr('height', 300);
-                console.log(chart);
 
                 var bar = chart.selectAll('g')
                     .data(vm.data)

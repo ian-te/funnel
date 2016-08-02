@@ -10,10 +10,17 @@
         var vm = this;
         vm.filters = {};
         vm.click = function(){
-            vm.data[0].value = 30000;
+
         };
         backend.get().then(function (d) {
-            vm.data = d3.nest()
+            vm.data = prepareChartData(d);
+
+            vm.dataHasLoaded = true;
+        });
+
+        function prepareChartData(d){
+            d = d.filter(function(d){ return d.country == 'China'});
+            var data = d3.nest()
                 .key(function(d) {return d.action })
                 .rollup(function(d){
                     return d3.sum(d, function(g) {
@@ -21,10 +28,9 @@
                     })
                 })
                 .entries(d);
-
-            vm.dataHasLoaded = true;
-        });
-
+            
+            return data;
+        }
 
     }
 })();
