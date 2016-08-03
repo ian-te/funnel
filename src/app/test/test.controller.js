@@ -17,6 +17,23 @@
             vm.fullData = d;
             vm.data = prepareChartData(vm.fullData);
             vm.filters = getAvailableFilters(vm.fullData);
+            vm.channelFilters = d3.nest()
+                .key(function(d) {return d.action })
+                .rollup(function(d){
+                    var filter = {};
+                    d.forEach(function(item, k){
+                        var excluded = ['action','source','country','count','date','product'];
+                        for(var i in item) {
+                            if(!filter[i]) filter[i] = [];
+                            if(filter[i].indexOf(item[i]) == -1 && excluded.indexOf(i) == -1 ){
+                                filter[i].push(item[i])
+                            }
+                            if(filter[i].length == 0){delete filter[i]}
+                        }
+                    });
+                    return filter
+                })
+                .entries(d);
         });
         function getAvailableFilters(d){
             var data =  {
@@ -54,23 +71,6 @@
                 }
             }
 
-            vm.channelFilters = d3.nest()
-                .key(function(d) {return d.action })
-                .rollup(function(d){
-                    var filter = {};
-                    d.forEach(function(item, k){
-                        var excluded = ['action','source','country','count','date','product'];
-                        for(var i in item) {
-                            if(!filter[i]) filter[i] = [];
-                            if(filter[i].indexOf(item[i]) == -1 && excluded.indexOf(i) == -1 ){
-                                filter[i].push(item[i])
-                            }
-                            if(filter[i].length == 0){delete filter[i]}
-                        }
-                    });
-                    return filter
-                })
-                .entries(d);
 
             var data = d3.nest()
                 .key(function(d) {return d.action })
