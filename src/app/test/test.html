@@ -5,16 +5,38 @@
   </div>
   <div class="container">
     <div class="row">
+      <div class="col-md-2" ng-repeat="(key, item) in test.channelFilters">
+
+        <div class="panel panel-default">
+          <div class="panel-heading">{{item.key}}</div>
+          <div class="panel-body">
+            <div ng-repeat="(filterName, filter) in item.value">
+              <select ng-model="test.selectedFilters[item.key][filterName]">
+                <option ng-repeat="option in filter">{{option}}</option>
+              </select>
+            </div>
+          </div>
+      </div>
+    </div>
+    <div class="row">
       <div class="col-md-8">
         <chart-directive data="test.data" filter="test.selectedFilters" ng-if="test.dataHasLoaded"></chart-directive>
         <h1 ng-if="!test.dataHasLoaded">Loading data... </h1>
       </div>
       <div class="col-md-4">
-        <div ng-repeat="(key, filter) in test.filters">
-          <select multiple ng-model="test.selectedFilters[key]">
-            <option selected>All</option>
-            <option ng-repeat="option in filter">{{option}}</option>
-          </select>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            Common filters
+          </div>
+          <div class="panel-body">
+            <div ng-repeat="(key, filter) in test.filters">
+              <select multiple ng-model="test.selectedFilters[key]">
+                <option selected>All</option>
+                <option ng-repeat="option in filter">{{option}}</option>
+              </select>
+            </div>
+          </div>
+        </div>
         </div>
       </div>
     </div>

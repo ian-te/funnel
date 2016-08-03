@@ -2,6 +2,6 @@
   'use strict';
 
   angular
-    .module('funnel', ['ui.router', 'ui.bootstrap', 'd3Module', 'backendModule']);
+    .module('funnel', ['ui.router', 'ui.bootstrap', 'd3Module', 'backendModule','angular-underscore']);
 
 })();
